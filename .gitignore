@@ -1,0 +1,6 @@
+﻿venv/
+__pycache__/
+uploads/
+.keras/
+my_model.h5
+my_model.keras
